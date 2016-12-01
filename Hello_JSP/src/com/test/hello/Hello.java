@@ -21,6 +21,11 @@ public class Hello {
 		// 0412518 end
 		
 
+
+		
+		// 023659 : HOTFIX EDIT BY YJY
+		System.out.println("손지영 2천원 박불휘 5천원");
+		// 023659 end
 	}
 
 }
