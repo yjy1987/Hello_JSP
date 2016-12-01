@@ -20,6 +20,10 @@ public class Hello {
 		System.out.println("Github edit 4567");
 		// 0412518 end
 		
+		// 0278944 : pull by YJY
+		System.out.println("GitHub edit 4677891");
+		// 0278944 end
+		
 
 	}
 
