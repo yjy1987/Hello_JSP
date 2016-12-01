@@ -19,21 +19,16 @@ public class Hello {
 		// 0412518:ORIGIN/MASTER EDIT BY YJY
 		System.out.println("Github edit 4567");
 		// 0412518 end
-		
-<<<<<<< HEAD
 
-
-		
 		// 023659 : HOTFIX EDIT BY YJY
 		System.out.println("손지영 2천원 박불휘 5천원");
 		// 023659 end
-=======
+
 		// 0278944 : pull by YJY
 		System.out.println("GitHub edit 4677891");
 		// 0278944 end
 		
 
->>>>>>> branch 'master' of https://github.com/yjy1987/Hello_JSP.git
 	}
 
 }
